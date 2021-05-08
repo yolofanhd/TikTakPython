@@ -1,5 +1,5 @@
 # TikTakPython
-tiktaktoe for command line built in Python 
+Tik Tak Toe for any CLI built in Python.
 
 ## How to use?
 download latest version of python (Phython 3.9) <br>
